@@ -1,6 +1,12 @@
 body{
-	font-family: 'Roboto';
-	font-style: normal;
-	font-weight: 700;
-	font-size: 16px;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+table{
+	border-collapse: collapse;
+}
+table th,
+table td {
+	padding: 10px;
+	border: 1px solid "2a2a2a";
 }
